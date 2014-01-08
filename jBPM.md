@@ -25,11 +25,11 @@ jBPM是一个灵活的业务流程管理组件。它是轻量级，完全开放�
 
 10.  Review Liccences   视图  时，  右下角  选择  如下图：
 
-Eclipse 安装 JBPM5 - 风的旅程 - 风载着我旅行
+
 11.   点击  Finsh  就Ok  了
 
-12.  装完，提示是否重启，点击重启就Ok了，如下图
-     [如图](http://img9.ph.126.net/DjSb-4J98kxjzQKdjkeMQw==/2730307274110429689.png?raw=true)
+12.  装完，提示是否重启，点击重启就Ok了
+     ![如图](http://img9.ph.126.net/DjSb-4J98kxjzQKdjkeMQw==/2730307274110429689.png?raw=true)
  
  
 ##第二章##
